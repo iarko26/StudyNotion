@@ -8,3 +8,19 @@ Frontend:Reactjs
 Backend:Nodejs,Expressjs
 Database:Mongodb(Nosql)
 
+
+Data Models and Database Schema:
+
+![image](https://github.com/user-attachments/assets/2eec75a0-ef02-468e-bc25-083579e1fa5d)
+
+UI:
+![image](https://github.com/user-attachments/assets/cdabb435-9068-481f-be25-d2f0813867cd)
+
+
+Deployment:
+1.Cloudinary
+2.Render
+3.Vercel
+
+
+
